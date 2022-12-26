@@ -1,0 +1,18 @@
+
+.flashCard {
+    height: 500px;
+    width: 250px;
+    background-color: palegreen;
+    align-content: center;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.stage {
+    height: 550px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
